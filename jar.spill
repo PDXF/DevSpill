@@ -1,0 +1,20 @@
+::title third spill (minecraft modding is actual psychological warfare)
+::by @PDX
+::date 2025-05-22
+::tags modding, java, mcdev, devspill
+::slug mcmod-hell
+::visibility public
+
+compiling minecraft mods is a hate crime
+you don't write code. you write configs to convince gradle to maybe let you compile something that might run in a version of minecraft that changed its obfuscation mappings for the 400th time.
+
+fabric, forge, architectury—pick your poison. none of them work cleanly. every tutorial is outdated. every dependency breaks. you solve one problem and ten more crawl out of the build.gradle like it's a clown car.
+
+and god help you if you want mixins. want to remap jars? too bad, the toolchain is duct tape and prayers.
+want IDE support? lmao.
+
+every time i compile a mod that works i feel like a shaman who accidentally summoned a stable build through ritual and blood.
+
+minecraft modding is not programming. it's surviving.
+
+– @PDX
