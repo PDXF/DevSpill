@@ -1,0 +1,25 @@
+::title When Open Source Goes Corporate (Ahem, Red Hat)
+::by PDX
+::date 2025-05-23
+::tags Rant, IHBC, openSource
+::slug open-source-sellouts
+::visibility public
+
+It always starts the same:
+Small team. Cool idea. GitHub repo. MIT license. “Built for the community.”
+
+And it’s actually good.
+People contribute. It grows. It solves real problems. It becomes a daily driver for devs everywhere.
+
+Then it gets popular.
+Then it gets investors.
+Then it gets... locked down.
+
+    “We're introducing a new license.”
+    “Enterprise features only.”
+    “Support our sustainable future.”
+    Yeah right. Just say you sold out.
+
+The community built it. The hype came from us. Now we need a subscription just to use what we helped make?
+
+It’s genuinely sad watching open source become bait for VC money. The worst part? We’ve seen it so many times, we expect it now.
