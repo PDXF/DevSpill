@@ -2,7 +2,7 @@
 ::by PDX
 ::date 2025-05-23
 ::tags Admin, News, Notice
-::slug first
+::slug cleanedup
 ::visibility public
 
 The site is finally up. Turns out all I had to do was add a simple 500.js file with some basic code, and the site stopped messing up. It’ll run in safe mode for the next 24 hours so I can test it without it breaking again. Hopefully it stays working… but who knows. (also the time on posts isnt working for now so dont trust the time its not correct)
