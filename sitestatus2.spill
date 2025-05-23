@@ -1,0 +1,15 @@
+::title Site status (trash)
+::by PDX
+::date 2025-05-22
+::tags Admin, Status, PDX
+::slug Ihatethis
+::visibility public
+
+Site’s mostly up and running now. You can post, read, and it no longer slams GitHub every time someone visits. Solid progress.
+
+Deleting posts?
+Still broken.
+
+Right now it just throws a "disabled" label on the post and hides it in the UI. Doesn’t actually delete anything—just makes it disappear on the surface.
+
+Proper delete system coming later. Probably.
