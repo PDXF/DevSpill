@@ -1,0 +1,8 @@
+::title Site is up and running i think (pray)
+::by PDX
+::date 2025-05-23
+::tags DS, admin, system
+::slug first
+::visibility public
+
+Alright, so the site’s been running like absolute shit. I’ve been busting my ass for the last 26 hours trying to fix it, and I seriously fucked something up in the code. Every single time someone visited, it ended up DDoSing GitHub. Which, you know, definitely wasn’t supposed to fucking happen.
